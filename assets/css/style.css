@@ -1,0 +1,26 @@
+body {
+    background-image: url(../images/BackGround.jpg);
+    background-color: #cccccc;
+    background-size: 100%;
+ }
+
+ #currentTime{
+     color:lightgreen;
+     float: left;
+     font-size: 10px;
+
+ }
+
+ .text-muted{
+     color: white;
+ }
+
+ #remaining-time{
+     color: red;
+     font-size: 28px;
+
+ }
+
+ #question{
+     font-size: 28px;
+ }
